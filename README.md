@@ -12,3 +12,5 @@ Qt interface - the Qt creator code containing the graphical interface
 Results - results of the VS project (neural network and data handling)
 
 Utilities - VS project properties files (installation of OpenCV)
+
+THIS REPOSITORY IS A NEWER VERSION OF THE WINESCLASSIFICATION REPO ON MY GITHUB
