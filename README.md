@@ -3,8 +3,6 @@ WinesClassification
 
 Wines classification using neural networks and the OpenCV library
 
-Compiled solution - .zip of the .exe of the project
-
 Data - databases used during the project
 
 Docs - documentation of the project and screenshots
